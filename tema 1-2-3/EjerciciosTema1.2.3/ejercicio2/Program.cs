@@ -14,6 +14,7 @@
             Console.WriteLine("ahora dime tu peso");
             peso = Double.Parse(Console.ReadLine());
             Console.WriteLine("Perfecto te llamas {0,12} tienes {1,4} año(s) y \n\t pesas {2,5:F1} kilos \n \"{0}\" \\{1}\\", nombre, edad, peso);
+            Console.WriteLine("git");
         }
     }
 }
