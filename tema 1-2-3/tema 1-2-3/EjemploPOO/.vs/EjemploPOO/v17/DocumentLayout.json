@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Italiani\\Desktop\\tema 1-2-3\\EjemploPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B579D0DE-543F-4033-A0FD-AF9012145ACD}|EjemploPOO\\EjemploPOO.csproj|c:\\users\\carlos italiani\\desktop\\tema 1-2-3\\ejemplopoo\\ejemplopoo\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579D0DE-543F-4033-A0FD-AF9012145ACD}|EjemploPOO\\EjemploPOO.csproj|solutionrelative:ejemplopoo\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B579D0DE-543F-4033-A0FD-AF9012145ACD}|EjemploPOO\\EjemploPOO.csproj|c:\\users\\carlos italiani\\desktop\\tema 1-2-3\\ejemplopoo\\ejemplopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B579D0DE-543F-4033-A0FD-AF9012145ACD}|EjemploPOO\\EjemploPOO.csproj|solutionrelative:ejemplopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Italiani\\Desktop\\tema 1-2-3\\EjemploPOO\\EjemploPOO\\Perro.cs",
+              "RelativeDocumentMoniker": "EjemploPOO\\Perro.cs",
+              "ToolTip": "C:\\Users\\Carlos Italiani\\Desktop\\tema 1-2-3\\EjemploPOO\\EjemploPOO\\Perro.cs",
+              "RelativeToolTip": "EjemploPOO\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:35:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Italiani\\Desktop\\tema 1-2-3\\EjemploPOO\\EjemploPOO\\Program.cs",
+              "RelativeDocumentMoniker": "EjemploPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos Italiani\\Desktop\\tema 1-2-3\\EjemploPOO\\EjemploPOO\\Program.cs",
+              "RelativeToolTip": "EjemploPOO\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:32:47.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

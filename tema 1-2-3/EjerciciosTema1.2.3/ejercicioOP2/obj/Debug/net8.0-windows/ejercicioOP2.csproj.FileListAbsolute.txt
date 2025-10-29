@@ -1,0 +1,16 @@
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\bin\Debug\net8.0-windows\ejercicioOP2.exe
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\bin\Debug\net8.0-windows\ejercicioOP2.deps.json
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\bin\Debug\net8.0-windows\ejercicioOP2.runtimeconfig.json
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\bin\Debug\net8.0-windows\ejercicioOP2.dll
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\bin\Debug\net8.0-windows\ejercicioOP2.pdb
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.Form1.resources
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.csproj.GenerateResource.cache
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.GeneratedMSBuildEditorConfig.editorconfig
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.AssemblyInfoInputs.cache
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.AssemblyInfo.cs
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.csproj.CoreCompileInputs.cache
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.dll
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\refint\ejercicioOP2.dll
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.pdb
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ejercicioOP2.genruntimeconfig.cache
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicioOP2\obj\Debug\net8.0-windows\ref\ejercicioOP2.dll

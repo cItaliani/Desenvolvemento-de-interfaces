@@ -1,0 +1,11 @@
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1.2.3.csproj.AssemblyReference.cache
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1._2._3.Ejercicio1.resources
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1._2._3.Properties.Resources.resources
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1.2.3.csproj.GenerateResource.cache
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1.2.3.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\bin\Debug\EjerciciosTema1.2.3.exe.config
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\bin\Debug\EjerciciosTema1.2.3.exe
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\bin\Debug\EjerciciosTema1.2.3.pdb
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1.2.3.exe
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1.2.3.pdb
+C:\Users\Carlos Italiani\Desktop\tema 1-2-3\EjerciciosTema1.2.3\EjerciciosTema1.2.3\obj\Debug\EjerciciosTema1.2.3.exe.config

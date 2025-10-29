@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8B3265-A2B7-4695-BC8A-455198894305}|ejercicio9\\ejercicio9.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio9\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8B3265-A2B7-4695-BC8A-455198894305}|ejercicio9\\ejercicio9.csproj|solutionrelative:ejercicio9\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8B3265-A2B7-4695-BC8A-455198894305}|ejercicio9\\ejercicio9.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio9\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8B3265-A2B7-4695-BC8A-455198894305}|ejercicio9\\ejercicio9.csproj|solutionrelative:ejercicio9\\ordenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio9\\Principal.cs",
+              "RelativeDocumentMoniker": "ejercicio9\\Principal.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio9\\Principal.cs",
+              "RelativeToolTip": "ejercicio9\\Principal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:16:50.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ordenador.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio9\\Ordenador.cs",
+              "RelativeDocumentMoniker": "ejercicio9\\Ordenador.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio9\\Ordenador.cs",
+              "RelativeToolTip": "ejercicio9\\Ordenador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:25:54.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
