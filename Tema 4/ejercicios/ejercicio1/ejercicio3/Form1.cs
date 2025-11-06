@@ -1,3 +1,5 @@
+using Microsoft.VisualBasic.ApplicationServices;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace ejercicio3
@@ -41,7 +43,13 @@ namespace ejercicio3
 
                 Form formulario2 = new Form();
                 formulario2.Text = Path.GetFileName(filePath);
-                formulario2.Icon = null;
+                try {
+                formulario2.Icon = new Icon("icono.ico");
+                }
+                catch (System.IO.FileNotFoundException)
+                {
+                    Console.Write("no se ha cargado el icono");
+                };
                 formulario2.StartPosition = FormStartPosition.CenterScreen;
                 formulario2.ClientSize = new Size(800, 600);
 

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             listBox1 = new ListBox();
             listBox2 = new ListBox();
             button1 = new Button();
@@ -42,6 +43,7 @@
             radioButton4 = new RadioButton();
             groupBox1 = new GroupBox();
             groupBox2 = new GroupBox();
+            button4 = new Button();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             SuspendLayout();
@@ -50,17 +52,18 @@
             // 
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(12, 56);
+            listBox1.Location = new Point(12, 42);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(182, 94);
             listBox1.TabIndex = 0;
             listBox1.TabStop = false;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // listBox2
             // 
             listBox2.FormattingEnabled = true;
             listBox2.ItemHeight = 15;
-            listBox2.Location = new Point(200, 56);
+            listBox2.Location = new Point(200, 42);
             listBox2.Name = "listBox2";
             listBox2.Size = new Size(180, 94);
             listBox2.TabIndex = 0;
@@ -79,7 +82,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(12, 185);
+            button2.Location = new Point(12, 176);
             button2.Name = "button2";
             button2.Size = new Size(152, 23);
             button2.TabIndex = 3;
@@ -89,7 +92,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(12, 215);
+            button3.Location = new Point(12, 206);
             button3.Name = "button3";
             button3.Size = new Size(152, 23);
             button3.TabIndex = 4;
@@ -109,17 +112,16 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 153);
+            label1.Location = new Point(12, 139);
             label1.Name = "label1";
             label1.Size = new Size(38, 15);
             label1.TabIndex = 0;
             label1.Text = "label1";
-            label1.Click += label1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(143, 153);
+            label2.Location = new Point(156, 139);
             label2.Name = "label2";
             label2.Size = new Size(38, 15);
             label2.TabIndex = 0;
@@ -177,7 +179,7 @@
             // 
             groupBox1.Controls.Add(radioButton1);
             groupBox1.Controls.Add(radioButton2);
-            groupBox1.Location = new Point(170, 185);
+            groupBox1.Location = new Point(170, 176);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(95, 71);
             groupBox1.TabIndex = 5;
@@ -189,18 +191,29 @@
             // 
             groupBox2.Controls.Add(radioButton3);
             groupBox2.Controls.Add(radioButton4);
-            groupBox2.Location = new Point(271, 185);
+            groupBox2.Location = new Point(271, 176);
             groupBox2.Name = "groupBox2";
             groupBox2.Size = new Size(108, 71);
             groupBox2.TabIndex = 6;
             groupBox2.TabStop = false;
             groupBox2.Text = "traspasar de...";
             // 
+            // button4
+            // 
+            button4.Location = new Point(12, 235);
+            button4.Name = "button4";
+            button4.Size = new Size(152, 23);
+            button4.TabIndex = 7;
+            button4.Text = "Reset";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(392, 281);
+            ClientSize = new Size(395, 272);
+            Controls.Add(button4);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Controls.Add(label2);
@@ -211,7 +224,11 @@
             Controls.Add(button1);
             Controls.Add(listBox2);
             Controls.Add(listBox1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
@@ -238,5 +255,6 @@
         private RadioButton radioButton4;
         private GroupBox groupBox1;
         private GroupBox groupBox2;
+        private Button button4;
     }
 }
