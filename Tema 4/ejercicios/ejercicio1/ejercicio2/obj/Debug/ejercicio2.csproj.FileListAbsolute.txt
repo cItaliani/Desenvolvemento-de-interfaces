@@ -20,3 +20,14 @@ F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ej
 F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\bin\Debug\ejercicio2.exe.config
 F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\bin\Debug\ejercicio2.exe
 F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.exe.config
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio2\obj\Debug\ejercicio2.pdb
