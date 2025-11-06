@@ -41,6 +41,7 @@ namespace ejercicio3
 
                 Form formulario2 = new Form();
                 formulario2.Text = Path.GetFileName(filePath);
+                formulario2.Icon = null;
                 formulario2.StartPosition = FormStartPosition.CenterScreen;
                 formulario2.ClientSize = new Size(800, 600);
 
