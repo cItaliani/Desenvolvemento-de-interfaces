@@ -14,7 +14,7 @@ namespace ejercicio3
            // this.CancelButton += button2_Click();
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)//TODOo archivos corruptos. Icono sec. 
         {
             cuentaSegundos++;
             if (cuentaSegundos == 60)
@@ -31,7 +31,7 @@ namespace ejercicio3
         {
             OpenFileDialog fileDialog = new OpenFileDialog();
             fileDialog.InitialDirectory = "c:\\";
-            fileDialog.Filter = "Imágenes (*.jpg;*.png) | *.jpg;*.png |todos los archivos (*.*)|(*.*)";
+            fileDialog.Filter = "Imágenes (*.jpg;*.png) |*.jpg;*.png|todos los archivos (*.*)|*.*";
             fileDialog.FilterIndex = 1;
             fileDialog.RestoreDirectory = true;
 
@@ -101,13 +101,5 @@ namespace ejercicio3
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            DialogResult resultado = MessageBox.Show("esto cerrará el programa por comprleto","alerta",MessageBoxButtons.YesNo,MessageBoxIcon.Warning);
-            if (resultado != DialogResult.No)
-            {
-                Close();
-            }
-        }
     }
 }

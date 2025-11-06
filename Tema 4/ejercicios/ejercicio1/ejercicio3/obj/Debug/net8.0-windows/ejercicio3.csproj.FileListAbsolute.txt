@@ -30,3 +30,20 @@ F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ej
 F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.pdb
 F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.genruntimeconfig.cache
 F:\2º DAM\(Curro) Desenvolvemento de interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ref\ejercicio3.dll
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\bin\Debug\net8.0-windows\ejercicio3.exe
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\bin\Debug\net8.0-windows\ejercicio3.deps.json
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\bin\Debug\net8.0-windows\ejercicio3.runtimeconfig.json
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\bin\Debug\net8.0-windows\ejercicio3.dll
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\bin\Debug\net8.0-windows\ejercicio3.pdb
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.Form1.resources
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.csproj.GenerateResource.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.AssemblyInfoInputs.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.AssemblyInfo.cs
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.sourcelink.json
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.dll
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\refint\ejercicio3.dll
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.pdb
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ejercicio3.genruntimeconfig.cache
+C:\Users\Carlos Italiani\source\repos\-Curro--Desenvolvemento-de-interfaces\Tema 4\ejercicios\ejercicio1\ejercicio3\obj\Debug\net8.0-windows\ref\ejercicio3.dll
