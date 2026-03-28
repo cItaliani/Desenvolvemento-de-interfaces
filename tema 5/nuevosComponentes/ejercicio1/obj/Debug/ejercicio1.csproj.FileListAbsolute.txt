@@ -1,0 +1,11 @@
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\bin\Debug\ejercicio1.dll
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\bin\Debug\nuevosComponentes.dll
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\bin\Debug\nuevosComponentes.pdb
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.csproj.AssemblyReference.cache
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.UserControl1.resources
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.csproj.GenerateResource.cache
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.csproj.CoreCompileInputs.cache
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.csproj.Up2Date
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.dll
+D:\2º DAM\repaso DI\nuevosComponentes\ejercicio1\obj\Debug\ejercicio1.pdb
